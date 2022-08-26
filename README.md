@@ -1,4 +1,3 @@
-# packt_books_browse
 # Getting Started with Create Laravel App
 ## Installation
 
