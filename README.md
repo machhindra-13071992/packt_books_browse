@@ -23,6 +23,7 @@ Install all the dependencies using composer
 
 Open http://localhost:8000 to view it in your browser.
 
+
 I have renamed server.php to index.php file in the root.Copy the “.htaccess” file in the public directory and paste on root your project directory.
 
 So you can open folder with name http://localhost/packt_books_browse
@@ -51,16 +52,3 @@ Its return all migrations
 In the route file by default loaded search view file.
 You can see all added books on the listing page.
 To search perticular languagebook you have to type language name into the search box and click submit button. 
-
-
-
-
-	
-	
- 
- 
-	
-	
-
-
-
