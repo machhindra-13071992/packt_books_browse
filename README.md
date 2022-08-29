@@ -4,6 +4,7 @@
 Clone the repository
 
   (https://github.com/machhindra-13071992/packt_books_browse.git)
+  git clone https://github.com/machhindra-13071992/packt_books_browse.git
 
 Switch to the repo folder
 
